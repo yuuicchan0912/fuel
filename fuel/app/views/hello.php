@@ -2,9 +2,9 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title><?php echo $title;?></title>
+	<title>Hello World!</title>
 </head>
 <body>
-	<?php echo nl2br($content,false);?>
+	<p>Hello World!</p>
 </body>
 </html>
